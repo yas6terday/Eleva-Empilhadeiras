@@ -1,2 +1,3 @@
 # Eleva-Empilhadeiras
-Documentação do Projeto Integrador sobre implementação de chatbot com IA.
+
+Documentação do projeto Eleva Empilhadeiras - AAP1.
