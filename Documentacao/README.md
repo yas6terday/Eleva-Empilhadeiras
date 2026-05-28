@@ -10,7 +10,7 @@
 
 # Estrutura
 - Documentação
-- Fluxogramas BPMN
+- Fluxogramas
 
 # Monografia
 https://docs.google.com/document/d/1Q8wKvBw1jN1K4SBEz1w2OeGwp2YyrHNKq5Oe0N4gGuA/edit?usp=sharing
