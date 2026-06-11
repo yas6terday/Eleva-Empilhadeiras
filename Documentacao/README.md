@@ -19,4 +19,4 @@ https://docs.google.com/document/d/1Q8wKvBw1jN1K4SBEz1w2OeGwp2YyrHNKq5Oe0N4gGuA/
 https://drive.google.com/file/d/1o6tTmbFAXrhTMwiXvnn26vrbkUhJ2tHA/view?usp=drive_link
 
 # Fluxograma ELEVA EMPILHADEIRAS - TO BE
-https://drive.google.com/file/d/1UL4kWCmA7Q5syH7yVPW00swcVcQiMp4g/view?usp=drive_link
+https://drive.google.com/file/d/1oF2OhrKL3c-zn3fHMv_wpi2P17EHB7lV/view?usp=sharing
